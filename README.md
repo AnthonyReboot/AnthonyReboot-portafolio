@@ -52,4 +52,4 @@
 
 - **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/anthony-quispe-salazar-15744430b/)
 - **Email:** anthonyqsalazar@gmail.com
-- **Disocrd:** xizzors
+- **Discord:** xizzors
