@@ -40,9 +40,9 @@
 
 <!-- REPLAZA "tu-usuario" por tu nombre exacto de GitHub en los siguientes enlaces -->
 <p align="center">
-  <img src="https://vercel.app" alt="Estadísticas de GitHub" />
+  <img src="[https://vercel.app](https://github.com/AnthonyReboot)" alt="Estadísticas de GitHub" />
   <br/>
-  <img src="https://vercel.app" alt="Lenguajes más usados" />
+  <img src="[https://vercel.app](https://github.com/AnthonyReboot)" alt="Lenguajes más usados" />
 </p>
 
 ---
